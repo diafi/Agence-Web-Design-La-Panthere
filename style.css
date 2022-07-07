@@ -393,12 +393,20 @@ a:hover {
 .col-sm-4 p{
     font-size: 18px;
 }
-.tc-white span{
+.black-background{
+    background-color: black !important;
+    opacity: 80%;
+    padding: 3%;
+}
+.tight-width-whitespace{
+    max-width: 70%;
+    margin: auto;
+}
+#bloc-5-cta span{
     font-weight: bold;
     font-size: 26px;
-    color:#000000!important ;
+    color:#F3976C!important ;
 }
-
 
 
 
