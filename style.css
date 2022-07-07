@@ -362,6 +362,15 @@ a:hover {
     z-index: 2;
 }
 
+/*** RECOMMANDATIONS ***/
+
+/*** bloc-1-presentation ***/
+h1 span{
+    font-weight: bold;
+    font-size: 46px;
+    color: yellow !important ;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
