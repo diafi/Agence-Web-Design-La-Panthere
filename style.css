@@ -284,7 +284,9 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-weight: bold;
+    font-size: 46px;
+    color:#F3976C !important ;
 }
 
 .navbar {
@@ -364,12 +366,35 @@ a:hover {
 
 /*** RECOMMANDATIONS ***/
 
-/*** bloc-1-presentation ***/
-h1 span{
-    font-weight: bold;
-    font-size: 46px;
-    color: yellow !important ;
+#apropos span{
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #000000;
 }
+#nosrealisations span{
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #000000;
+}
+.mg-md{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #000000;
+}
+.text-center p{
+    font-size: 18px;
+}
+.text-center em{
+    font-size: 18px;
+}
+.col-sm-4 p{
+    font-size: 18px;
+}
+
+
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -788,8 +813,13 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: black;
+    width: max-content;
+    font-weight: 800;
+    border-color: #F3976C;
+    color: #F3976C!important;
+    border-width: 2px;
+    font-size: 18px;
 }
 
 .btn-atomic-tangerine:hover {
