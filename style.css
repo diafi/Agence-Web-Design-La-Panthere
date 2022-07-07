@@ -393,6 +393,12 @@ a:hover {
 .col-sm-4 p{
     font-size: 18px;
 }
+.tc-white span{
+    font-weight: bold;
+    font-size: 26px;
+    color:#000000!important ;
+}
+
 
 
 
