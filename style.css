@@ -395,6 +395,7 @@ a:hover {
 }
 .black-background{
     background-color: #424242 !important;
+    opacity: 80%;
     padding: 3%;
 }
 .tight-width-whitespace{
@@ -406,7 +407,11 @@ a:hover {
     font-size: 26px;
     color:#F3976C!important ;
 }
-
+.col-sm-6 iframe{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
 
 
 @media (min-width: 768px) {
@@ -1009,7 +1014,7 @@ h4 {
     }
     .navbar-collapse {
         padding: 0;
-        overflow-x: hidden;
+        overflow-x: hidden;         
         -webkit-box-shadow: none;
         box-shadow: none;
     }
