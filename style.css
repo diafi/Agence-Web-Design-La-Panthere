@@ -419,6 +419,9 @@ a:hover {
     font-size: 26px;
     color:#000000!important ;
 }
+.btn-atomic-tangerine .btn{
+    width:max-content;
+}
 
 
 @media (min-width: 768px) {
