@@ -410,7 +410,14 @@ a:hover {
 .col-sm-6 iframe{
     margin: auto;
     padding: auto;
-    text-align: center;
+    width: max-content;
+}
+
+/** Contact**/
+.black{
+    font-weight: bold;
+    font-size: 26px;
+    color:#000000!important ;
 }
 
 
