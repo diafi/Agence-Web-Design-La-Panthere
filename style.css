@@ -415,6 +415,9 @@ a:hover {
     width: max-content;
 }
 
+.col-sm-3 i {
+    color:#000000!important ;
+}
 /** Contact**/
 .black{
     font-weight: bold;
