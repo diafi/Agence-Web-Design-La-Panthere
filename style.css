@@ -386,16 +386,18 @@ a:hover {
 }
 .text-center p{
     font-size: 18px;
+    
 }
 .text-center em{
     font-size: 18px;
+    color: #000000;
 }
 .col-sm-4 p{
     font-size: 18px;
 }
 .black-background{
-    background-color: #424242 !important;
-    opacity: 80%;
+    background-color: #FFFFFF !important;
+    
     padding: 3%;
 }
 .tight-width-whitespace{
@@ -405,7 +407,7 @@ a:hover {
 #bloc-5-cta span{
     font-weight: bold;
     font-size: 26px;
-    color:#F3976C!important ;
+    color:#000000!important ;
 }
 .col-sm-6 iframe{
     margin: auto;
@@ -744,7 +746,8 @@ p {
 
 .tight-width-whitespace {
     max-width: 600px;
-    margin: auto auto auto auto;color: #FFFFFF!important;
+    margin: auto ;
+    color: #FFFFFF!important;
 }
 
 .h1 {
