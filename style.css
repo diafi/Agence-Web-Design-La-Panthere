@@ -422,7 +422,7 @@ a:hover {
 .black{
     font-weight: bold;
     font-size: 26px;
-    color:#000000!important ;
+    color:#000000 ;
 }
 .btn-atomic-tangerine .btn{
     width:max-content;
@@ -840,7 +840,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #9C3607;
 }
 
 .tc-white {
